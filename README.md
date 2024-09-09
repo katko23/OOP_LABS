@@ -12,19 +12,21 @@ Laboratoarele din acest curs abordează următoarele teme:
    - Moștenirea
    - Polimorfismul
    - Abstractizarea
-
-2. **Paradigme de programare**:
+     
+   **Paradigme de programare**:
    - Programare procedurală vs. programare orientată pe obiect
    - Avantajele POO
-
-3. **Elemente avansate ale OOP**:
+  
+   **Elemente avansate ale OOP**:
    - Constructori și destructori
    - Funcții și clase friend
    - Moștenire multiplă și ierarhie de clase
 
-4. **Proiect Practic - Sistem Simplu de Management al Bibliotecii**:
-   - Implementarea unui sistem de management pentru o bibliotecă folosind concepte OOP.
-   - Folosirea Git și GitHub pentru versionare și managementul codului.
+2. 
+
+3. 
+
+4. 
 
 ## Instrucțiuni pentru studenți
 
@@ -40,10 +42,10 @@ Laboratoarele din acest curs abordează următoarele teme:
 3. **Structura de fișiere**:
    - Fiecare laborator trebuie să aibă un folder propriu, numit corespunzător după tema laboratorului. De exemplu:
      ```
-     ├── Lab1_Clase_Obiecte
-     ├── Lab2_Constructors
-     ├── Lab3_Inheritance
-     └── Project_Library_Management_System
+     ├── Lab1
+     ├── Lab2
+     ├── Lab3
+     └── Project_Library_Management_System(exemplu)
      ```
 
 4. **Limbaj de Programare**:
@@ -60,5 +62,4 @@ Laboratoarele din acest curs abordează următoarele teme:
 - [UTM Site Oficial](https://utm.md)
 
 ## Informații suplimentare
-Pentru orice întrebări sau clarificări, contactați profesorul sau asistentul de curs.
-
+Pentru orice întrebări sau clarificări, contactați Catalin Coseru.
